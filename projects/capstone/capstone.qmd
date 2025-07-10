@@ -20,7 +20,7 @@ about:
 
 This is my Capstone Project
 
-Some more info...
+Some info...
 
 ```{r}
 hist(rpois(100, 1))
