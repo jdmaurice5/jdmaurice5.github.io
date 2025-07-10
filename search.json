@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Joseph Dante Maurice",
-    "section": "",
-    "text": "Hello! I am Joseph Dante Maurice, a rising senior at Rice University. I am double majoring in Statistics and Sport Analytics.\nx^2\nMy favortie package is sabRmetrics\n\nlibrary(sabRmetrics)"
-  },
-  {
-    "objectID": "projects/capstone/capstone.html",
-    "href": "projects/capstone/capstone.html",
-    "title": "Capstone Project",
-    "section": "",
-    "text": "This is my Capstone Project\nSome info…\n\nhist(rpois(100, 1))"
-  },
-  {
     "objectID": "projects/EDA/eda.html",
     "href": "projects/EDA/eda.html",
     "title": "My EDA Project",
@@ -26,5 +12,19 @@
     "title": "Projects",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy EDA Project\n\n\nThis is my summer 2025 eda project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project\n\n\nCapstone project description\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joseph Dante Maurice",
+    "section": "",
+    "text": "Hello! I am Joseph Dante Maurice, a rising senior at Rice University. I am double majoring in Statistics and Sport Analytics.\nx^2\nMy favortie package is sabRmetrics\n\nlibrary(sabRmetrics)"
+  },
+  {
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "Capstone Project",
+    "section": "",
+    "text": "This is my Capstone Project\nSome more info…\n\nhist(rpois(100, 1))"
   }
 ]
