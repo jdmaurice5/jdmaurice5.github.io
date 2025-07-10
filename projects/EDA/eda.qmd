@@ -1,0 +1,25 @@
+---
+title: "My EDA Project"
+description: "This is my summer 2025 eda project"
+date: "June 2025"
+resources: "."
+about: 
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "Github"
+      href: "https://github.com"
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com"
+---
+
+This is my EDA Project
+
+Some info...
+
+```{r}
+hist(rnorm(100))
+```
+
