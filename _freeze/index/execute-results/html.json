@@ -1,0 +1,15 @@
+{
+  "hash": "cc4a995fe1f4154281aeb9cf6add85e8",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Joseph Dante Maurice\"\nabout:\n  template: trestles\n  image: assets/headshot.jpeg\n  image-shape: round\n  links:\n    - icon: envelope\n      text: Email\n      href: mailto:jdantemaurice@gmail.com\n    - icon: github\n      text: Github\n      href: https://github.com\n---\n\nHello! I am Joseph Dante Maurice, a rising senior at Rice University. I am double majoring in Statistics and Sport Analytics. \n\n\nx^2\n\n\nMy favortie package is sabRmetrics\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(sabRmetrics)\n```\n:::\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

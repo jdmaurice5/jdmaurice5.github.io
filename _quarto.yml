@@ -1,0 +1,50 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "J. Dante Maurice"
+  navbar:
+    background: "#00205B"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/joseph-dante-maurice-68a56526a
+        target: _blank
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/jdmaurice5
+        target: _blank
+        aria-label: Github
+      - icon: file-pdf
+        href: assets/JDMauriceResume.pdf
+        target: blank
+        aria-label: Resume
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    include-after-body:
+      - text: |
+          <script type="text/javascript">
+          var elements = document.querySelectorAll('[aria-label]');
+          for (var i = 0; i < elements.length; i++) {
+            var ariaLabel = elements[i].getAttribute('aria-label');
+            elements[i].setAttribute('data-bs-title', ariaLabel);
+            elements[i].setAttribute('data-bs-toggle', 'tooltip');
+          }
+          const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+          const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
+          </script>
+
+execute: 
+  freeze: auto
+

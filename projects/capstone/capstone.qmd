@@ -1,0 +1,27 @@
+---
+title: "Capstone Project"
+description: "Capstone project description"
+date: "July 2025"
+resources: "."
+about: 
+  template: solana
+  image: cover.jpeg
+  links: 
+    - icon: github
+      text: "Github"
+      href: "https://github.com"
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com"
+    - icon: file-code
+      text: "Report"
+      href: "https://theonion.com/"
+---
+
+This is my Capstone Project
+
+Some info...
+
+```{r}
+hist(rpois(100, 1))
+```

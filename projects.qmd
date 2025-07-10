@@ -1,0 +1,15 @@
+---
+title: "Projects"
+listing: 
+  contents: projects
+  type: default
+  sort: 
+    - "date"
+    - "title desc"
+---
+
+About this site
+
+```{r}
+1 + 1
+```

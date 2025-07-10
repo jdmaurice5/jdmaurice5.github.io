@@ -1,0 +1,28 @@
+---
+title: "Joseph Dante Maurice"
+about:
+  template: trestles
+  image: assets/headshot.jpeg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jdantemaurice@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Hello! I am Joseph Dante Maurice, a rising senior at Rice University. I am double majoring in Statistics and Sport Analytics. 
+
+
+x^2
+
+
+My favortie package is sabRmetrics
+
+```{r}
+library(sabRmetrics)
+```
+
+
