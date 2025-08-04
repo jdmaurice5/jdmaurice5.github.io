@@ -2,7 +2,7 @@
   "hash": "27de7fb2000d9250437fcbe92f7a856b",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"My EDA Project\"\ndescription: \"This is my summer 2025 eda project\"\ndate: \"June 2025\"\nresources: \".\"\nabout: \n  template: solana\n  image: cover.png\n  links: \n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com\"\n    - icon: easel\n      text: \"Slides\"\n      href: \"https://docs.google.com\"\n---\n\n\n\nThis is my EDA Project\n\nSome info...\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](eda_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"My EDA Project\"\ndescription: \"This is my summer 2025 eda project\"\ndate: \"June 2025\"\nresources: \".\"\nabout: \n  template: solana\n  image: cover.png\n  links: \n    - icon: github\n      text: \"Github\"\n      href: \"https://github.com\"\n    - icon: easel\n      text: \"Slides\"\n      href: \"https://docs.google.com\"\n---\n\nThis is my EDA Project\n\nSome info...\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](eda_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n",
     "supporting": [
       "eda_files"
     ],
