@@ -8,8 +8,4 @@ listing:
     - "title desc"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Here are my projects

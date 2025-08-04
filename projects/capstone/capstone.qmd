@@ -10,12 +10,15 @@ about:
     - icon: github
       text: "Github"
       href: "https://github.com"
+      target: _blank
     - icon: easel
       text: "Slides"
       href: "https://docs.google.com/presentation/d/1yYzf4wAV2ZiWzRbWTOVdnjk6GV0ewWRiJQg8gKyJTIw/edit?usp=sharing"
+      target: _blank
     - icon: file-code
       text: "Report"
       href: "https://jdmaurice5.github.io/CMU2025/Report/report.html"
+      target: _blank
 ---
 
 This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and for their guidance and support.
