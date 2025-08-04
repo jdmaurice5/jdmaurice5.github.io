@@ -13,16 +13,8 @@ about:
       href: https://github.com
 ---
 
-Hello! I am Joseph Dante Maurice, a rising senior at Rice University. I am double majoring in Statistics and Sport Analytics. 
+Hello! I am Joseph Dante Maurice, a senior at Rice University. I am pursuing a double major in Sport Analytics and Statistics and a minor in Data Science. Driven by determination to work in sports, I transferred to Rice after two years at the University of Wisconsin–Madison to focus on sports analytics opportunities that align with my career goals.
 
-
-x^2
-
-
-My favortie package is sabRmetrics
-
-```{r}
-library(sabRmetrics)
-```
+I serve as a Senior Analyst for the Rice Baseball Analytics team. In this role, I capture and analyze data to craft player development plans, conduct advanced research, and generate comprehensive scouting reports. My goal is to work for and bring value to a professional sports organization in player personnel.
 
 
