@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy EDA Project\n\n\nThis is my summer 2025 eda project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project\n\n\nCapstone project description\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy EDA Project\n\n\nThis is my summer 2025 eda project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Swing Behavior Within MLB Hitters\n\n\nApplying GMM to MLB Hitters Swings\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/EDA/eda.html",
@@ -23,8 +23,8 @@
   {
     "objectID": "projects/capstone/capstone.html",
     "href": "projects/capstone/capstone.html",
-    "title": "Capstone Project",
+    "title": "Clustering Swing Behavior Within MLB Hitters",
     "section": "",
-    "text": "This is my Capstone Project\nSome more info…\n\nhist(rpois(100, 1))"
+    "text": "This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and for their guidance and support."
   }
 ]

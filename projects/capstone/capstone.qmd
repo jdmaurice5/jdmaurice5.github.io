@@ -1,7 +1,7 @@
 ---
-title: "Capstone Project"
-description: "Capstone project description"
-date: "July 2025"
+title: "Clustering Swing Behavior Within MLB Hitters"
+description: "Applying GMM to MLB Hitters Swings"
+date: "July 25, 2025"
 resources: "."
 about: 
   template: solana
@@ -12,16 +12,10 @@ about:
       href: "https://github.com"
     - icon: easel
       text: "Slides"
-      href: "https://docs.google.com"
+      href: "https://docs.google.com/presentation/d/1yYzf4wAV2ZiWzRbWTOVdnjk6GV0ewWRiJQg8gKyJTIw/edit?usp=sharing"
     - icon: file-code
       text: "Report"
-      href: "https://theonion.com/"
+      href: "https://jdmaurice5.github.io/CMU2025/Report/report.html"
 ---
 
-This is my Capstone Project
-
-Some more info...
-
-```{r}
-hist(rpois(100, 1))
-```
+This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and for their guidance and support.
