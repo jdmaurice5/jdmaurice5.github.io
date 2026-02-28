@@ -2,7 +2,7 @@
 title: "Joseph Dante Maurice"
 about:
   template: trestles
-  image: assets/headshot.jpeg
+  image: assets/headshot.jpg
   image-shape: round
   links:
     - icon: envelope
