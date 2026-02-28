@@ -4,8 +4,9 @@ listing:
   contents: projects
   type: default
   sort: 
+    - "title"
     - "date desc"
-    - "title desc"
+    
 ---
 
 Here are my projects
