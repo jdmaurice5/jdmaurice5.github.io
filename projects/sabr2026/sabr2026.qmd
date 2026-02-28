@@ -1,6 +1,6 @@
 ---
 title: "For the Win: Optimizing Hitter Value Across Game States"
-description: "Determining When and Which Hitters Should Change their Approach"
+description: "Diamond Dollars Case Competition"
 date: "February 27, 2026"
 resources: "."
 about: 
