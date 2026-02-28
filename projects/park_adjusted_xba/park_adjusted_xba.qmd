@@ -1,0 +1,16 @@
+---
+title: "Redefining xBA with Ballpark Geometry"
+description: "Creating a Stadium-dependent xBA model"
+date: "November 18, 2025"
+resources: "."
+about: 
+  template: solana
+  image: cover2.jpeg
+  links: 
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com/presentation/d/1UDSWDbWWn3DyBrVZM3Ei6Yao_uE9kMwR_4nsbQaCdl0/edit?usp=sharing"
+      target: _blank
+---
+
+This project comes from Round Two of the inaugural Rice × Syracuse Analytics Competition. Our team was tasked with building an original expected Batting Average metric using stadium dimensions, and I had the opportunity to serve as team captain. I’m grateful to my teammates, Jacob Andreini and Ethan Larimore, for their collaboration and insight.

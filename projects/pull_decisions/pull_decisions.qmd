@@ -1,0 +1,16 @@
+---
+title: "Optimizing Manager Decision-Making in Starting Pitcher Changes"
+description: "With Theoretical Rule-Change Applications"
+date: "February 3, 2026"
+resources: "."
+about: 
+  template: solana
+  image: cover2.jpeg
+  links: 
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com/presentation/d/18hiHW3Vo0JHDm4XMFLb7cT4YtfVCDsz4JjTjno_7Wnw/edit?usp=sharing"
+      target: _blank
+---
+
+This project comes from the final round of the inaugural Rice × Syracuse Analytics Competition. Our team was tasked with creating our own modeling framework to determine the optimal time to pull a starting pitcher in a game. I had the opportunity to serve as team captain. I’m grateful to my teammates, Jacob Andreini and Ethan Larimore, for their collaboration and insight. 
