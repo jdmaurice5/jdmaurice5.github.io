@@ -2,7 +2,9 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/capstone/capstone.html"
+      "/projects/capstone/capstone.html",
+      "/projects/park_adjusted_xba/park_adjusted_xba.html",
+      "/projects/pull_decisions/pull_decisions.html"
     ]
   }
 ]

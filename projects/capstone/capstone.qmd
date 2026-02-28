@@ -21,4 +21,4 @@ about:
       target: _blank
 ---
 
-This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and for their guidance and support.
+This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and our program TAs for their guidance and support.

@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are my projects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Swing Behavior Within MLB Hitters\n\n\nApplying GMM to MLB Hitters Swings\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Here are my projects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Swing Behavior Within MLB Hitters\n\n\nApplying GMM to MLB Hitters Swings\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRedefining xBA with Ballpark Geometry\n\n\nCreating a Stadium-dependent xBA model\n\n\n\n\n\nNov 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nOptimizing Manager Decision-Making in Starting Pitcher Changes\n\n\nWith Theoretical Rule-Change Applications\n\n\n\n\n\nFeb 3, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/park_adjusted_xba/park_adjusted_xba.html",
+    "href": "projects/park_adjusted_xba/park_adjusted_xba.html",
+    "title": "Redefining xBA with Ballpark Geometry",
+    "section": "",
+    "text": "This project comes from Round Two of the inaugural Rice × Syracuse Analytics Competition. Our team was tasked with building an original expected Batting Average metric using stadium dimensions, and I had the opportunity to serve as team captain. I’m grateful to my teammates, Jacob Andreini and Ethan Larimore, for their collaboration and insight."
   },
   {
     "objectID": "index.html",
@@ -18,6 +25,13 @@
     "href": "projects/capstone/capstone.html",
     "title": "Clustering Swing Behavior Within MLB Hitters",
     "section": "",
-    "text": "This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and for their guidance and support."
+    "text": "This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and our program TAs for their guidance and support."
+  },
+  {
+    "objectID": "projects/pull_decisions/pull_decisions.html",
+    "href": "projects/pull_decisions/pull_decisions.html",
+    "title": "Optimizing Manager Decision-Making in Starting Pitcher Changes",
+    "section": "",
+    "text": "This project comes from the final round of the inaugural Rice × Syracuse Analytics Competition. Our team was tasked with creating our own modeling framework to determine the optimal time to pull a starting pitcher in a game. I had the opportunity to serve as team captain. I’m grateful to my teammates, Jacob Andreini and Ethan Larimore, for their collaboration and insight."
   }
 ]
