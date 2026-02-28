@@ -1,0 +1,16 @@
+---
+title: "For the Win: Optimizing Hitter Value Across Game States"
+description: "Determining When and Which Hitters Should Change their Approach"
+date: "February 27, 2026"
+resources: "."
+about: 
+  template: solana
+  image: cover2.jpeg
+  links: 
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com/presentation/d/1pV64VBHAJIUPdpnBfvf-J3rMnr2990wryL3A4ssHlSE/edit?usp=sharing"
+      target: _blank
+---
+
+This project comes from the 2026 Diamond Dollars Case Competition at the SABR Analytics Conference. Our team was tasked with determining when, why, and for whom a tradeoff from a hitter's traditional approach, which optimizes their individual output and expected value, to a more win creation approach, which prioritizes winning the game at the expense of individual output, is justified. I served as team captain and we ultimately were selected as the winner of our room. I’m grateful to my teammates, Kenneth Soh, Jacob Andreini, Ethan Larimore, and Chad Federico for their collaboration and insight. 

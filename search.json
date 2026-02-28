@@ -4,14 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are my projects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOptimizing Manager Decision-Making in Starting Pitcher Changes\n\n\nWith Theoretical Rule-Change Applications\n\n\n\n\n\nFeb 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nRedefining xBA with Ballpark Geometry\n\n\nCreating a Stadium-dependent xBA model\n\n\n\n\n\nNov 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Swing Behavior Within MLB Hitters\n\n\nApplying GMM to MLB Hitters Swings\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Here are my projects\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor the Win: Optimizing Hitter Value Across Game States\n\n\nDetermining When and Which Hitters Should Change their Approach\n\n\n\n\n\nFeb 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nOptimizing Manager Decision-Making in Starting Pitcher Changes\n\n\nWith Theoretical Rule-Change Applications\n\n\n\n\n\nFeb 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nRedefining xBA with Ballpark Geometry\n\n\nCreating a Stadium-dependent xBA model\n\n\n\n\n\nNov 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nClustering Swing Behavior Within MLB Hitters\n\n\nApplying GMM to MLB Hitters Swings\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/park_adjusted_xba/park_adjusted_xba.html",
-    "href": "projects/park_adjusted_xba/park_adjusted_xba.html",
-    "title": "Redefining xBA with Ballpark Geometry",
+    "objectID": "projects/sabr2026/sabr2026.html",
+    "href": "projects/sabr2026/sabr2026.html",
+    "title": "For the Win: Optimizing Hitter Value Across Game States",
     "section": "",
-    "text": "This project comes from Round Two of the inaugural Rice × Syracuse Analytics Competition. Our team was tasked with building an original expected Batting Average metric using stadium dimensions, and I had the opportunity to serve as team captain. I’m grateful to my teammates, Jacob Andreini and Ethan Larimore, for their collaboration and insight."
+    "text": "This project comes from the 2026 Diamond Dollars Case Competition at the SABR Analytics Conference. Our team was tasked with determining when, why, and for whom a tradeoff from a hitter’s traditional approach, which optimizes their individual output and expected value, to a more win creation approach, which prioritizes winning the game at the expense of individual output, is justified. I served as team captain and we ultimately were selected as the winner of our room. I’m grateful to my teammates, Kenneth Soh, Jacob Andreini, Ethan Larimore, and Chad Federico for their collaboration and insight."
+  },
+  {
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "Clustering Swing Behavior Within MLB Hitters",
+    "section": "",
+    "text": "This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and our program TAs for their guidance and support."
   },
   {
     "objectID": "index.html",
@@ -21,11 +28,11 @@
     "text": "Hello! I am Joseph Dante Maurice, a senior at Rice University. I am pursuing a double major in Sport Analytics and Statistics and a minor in Data Science. Driven by determination to work in sports, I transferred to Rice after two years at the University of Wisconsin–Madison to focus on sports analytics opportunities that align with my career goals.\nI serve as a Senior Analyst for the Rice Baseball Analytics team. In this role, I capture and analyze data to craft player development plans, conduct advanced research, and generate comprehensive scouting reports. My goal is to work for and bring value to a professional sports organization in player personnel."
   },
   {
-    "objectID": "projects/capstone/capstone.html",
-    "href": "projects/capstone/capstone.html",
-    "title": "Clustering Swing Behavior Within MLB Hitters",
+    "objectID": "projects/park_adjusted_xba/park_adjusted_xba.html",
+    "href": "projects/park_adjusted_xba/park_adjusted_xba.html",
+    "title": "Redefining xBA with Ballpark Geometry",
     "section": "",
-    "text": "This is my Capstone Project from my summer at Carnegie Mellon University doing sports analytics research. Special thanks to our advisor, Bryant Davis, as well as Quang Nguyen, Dr. Yurko, and our program TAs for their guidance and support."
+    "text": "This project comes from Round Two of the inaugural Rice × Syracuse Analytics Competition. Our team was tasked with building an original expected Batting Average metric using stadium dimensions, and I had the opportunity to serve as team captain. I’m grateful to my teammates, Jacob Andreini and Ethan Larimore, for their collaboration and insight."
   },
   {
     "objectID": "projects/pull_decisions/pull_decisions.html",
