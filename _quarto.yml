@@ -21,7 +21,7 @@ website:
         target: _blank
         aria-label: Github
       - icon: file-pdf
-        href: assets/JDMauriceResume.pdf
+        href: assets/JDMaurice_Resume.pdf
         target: blank
         aria-label: Resume
 
