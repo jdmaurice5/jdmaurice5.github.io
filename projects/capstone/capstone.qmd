@@ -13,7 +13,7 @@ about:
       target: _blank
     - icon: easel
       text: "Slides"
-      href: "https://docs.google.com/presentation/d/1yYzf4wAV2ZiWzRbWTOVdnjk6GV0ewWRiJQg8gKyJTIw/edit?usp=sharing"
+      href: "https://docs.google.com/presentation/d/12XFP9CURbHd2HWR_pPYV8vudGg4uBJtaw783D6KWSEw/edit?slide=id.p#slide=id.p"
       target: _blank
     - icon: file-code
       text: "Report"
