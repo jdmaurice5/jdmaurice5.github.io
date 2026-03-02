@@ -16,10 +16,6 @@ website:
         href: https://www.linkedin.com/in/joseph-dante-maurice-68a56526a
         target: _blank
         aria-label: LinkedIn
-      - icon: github
-        href: https://github.com/jdmaurice5
-        target: _blank
-        aria-label: Github
       - icon: file-pdf
         href: assets/JDMaurice_Resume.pdf
         target: blank

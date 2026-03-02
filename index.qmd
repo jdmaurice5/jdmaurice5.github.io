@@ -8,9 +8,10 @@ about:
     - icon: envelope
       text: Email
       href: mailto:jdantemaurice@gmail.com
-    - icon: github
-      text: Github
-      href: https://github.com/jdmaurice5
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/joseph-dante-maurice-68a56526a
+
 ---
 
 Hello! I am Joseph Dante Maurice, a senior at Rice University. I am pursuing a double major in Sport Analytics and Statistics and a minor in Data Science. Driven by determination to work in sports, I transferred to Rice after two years at the University of Wisconsin–Madison to focus on sports analytics opportunities that align with my career goals.
