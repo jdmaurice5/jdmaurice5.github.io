@@ -6,11 +6,7 @@ resources: "."
 about: 
   template: solana
   image: cover.jpeg
-  links: 
-    - icon: github
-      text: "Github"
-      href: "https://github.com"
-      target: _blank
+  links:
     - icon: easel
       text: "Slides"
       href: "https://docs.google.com/presentation/d/12XFP9CURbHd2HWR_pPYV8vudGg4uBJtaw783D6KWSEw/edit?slide=id.p#slide=id.p"
